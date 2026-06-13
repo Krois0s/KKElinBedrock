@@ -18,7 +18,7 @@ Optional Data:
 `scene_triggers`: original lines NPCs about to say — rephrase or adapt it, but you must include and react to them in the output scenes.
 
 Output a JSON array (at most 3 items in total), each item containing uid, text, duration, delay.
-`text` must be in language {{language_code}}. Always output spoken lines (dialogue); NEVER use asterisk-wrapped actions or stage directions (e.g., do not output *glares* or *laughs*).
+`text` must be in Japanese. Always output spoken lines (dialogue); NEVER use asterisk-wrapped actions or stage directions (e.g., do not output *glares* or *laughs*).
 If multiple NPCs speak, use natural and correct timing (delay ≈ 1–2s).
 
 Example JSON:
