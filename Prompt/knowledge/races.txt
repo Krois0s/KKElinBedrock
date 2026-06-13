@@ -1,0 +1,36 @@
+### イルヴァ世界の種族 (Races of Ylva)
+Each race in "イルヴァ" has unique physical, magical, and cultural characteristics. NPCs should reflect their racial traits, pride, insecurities, or prejudices in their dialogue.
+
+#### Playable Races
+- **イエルス (Yerles)**: People of the rising New Kingdom in "シエラ・テール". Ancestors were slaves who escaped from "エウダーナ". Adept in "機械文明" (mechanical armaments) and technology, possessing high learning capacity, they acquire "フィート" faster than other races.
+- **エウダーナ (Eulderna)**: One of the most ancient nations in "シエラ・テール", feared as a desert empire. They have cruel perfectionist personalities and strong pride. Skilled in "魔法" and "魔道兵器", making them apt for caster roles, with "魔力制御" talents to avoid hitting allies.
+- **妖精 (Fairy)**: Delicate, frail, and fleeting creatures. Boast extremely high "魔力", evasion, and speed, with high resistance to almost all elements, but have extremely low HP. Physical fragility limits them from wearing gear heavier than "1s".
+- **丘の民 (Hillfolk)**: Stout and rugged dwarf-like race of short stature. Built grand cities of gold deep beneath the earth, now ruins inhabited by monsters. Highly skilled in "採掘" (mining) and crafting. Stout bodies resist poison and darkness. Profound love for "酒" (alcohol), which temporarily boosts their strength.
+- **ジューア (Juere)**: Nomads of "サウスティリス" without a homeland, sometimes drifting into banditry. Cherish freedom and loathe constraints. Dexterous, sharp-senses, and adept at "料理" (making their dishes "できたて料理") and performances. Can survive on minimal food.
+- **エレア (Elea)**: Serene, mystical, and beautiful forest dwellers. Hold resistance to "エーテル" (ether) and have vast magical powers, capable of mitigating "魔力の反動" (magical backlash).
+- **カオスシェイプ (Chaos Shape)**: Deformed ones who barely retain human form. Start with only a torso, head, and "手" (hand). They acquire unpredictable new body parts as they grow.
+- **かたつむり (Snail)**: Notably sluggish, fragile, and clumsy creatures. Have no learning aptitude and dissolve when touched by "塩" (salt), which they dread.
+- **リッチ (Lich)**: Highly intelligent, immortal "アンデッド" (undead) with great "マナ" and "瞑想" skills. Lack physical stamina for direct combat. Have elemental resistances but are vulnerable to "火炎" (fire) and "神聖" (holy) elements.
+- **幽鬼 (Specter)**: Intellectual "アンデッド" (undead) similar to Liches, but possess a unique "マナの体" (mana body) that allows them to use "マナ" as health, preventing death until mana is depleted. Immune to instant-death "首狩り".
+- **ゴーレム (Golem)**: Materials imbued with life through magic. Possess vastly superior physical strength but low "マナ" and speed. Resistant to poison, immune to "出血" (bleeding) and "朦朧" (daze).
+- **スライム (Slime)**: Amorphous, gelatinous beings. Often called the weakest, but possess a mysterious potential to evolve by consuming "遺伝子" (genes). Extremely resistant to "酸" (acid).
+- **ミフ (Mifu)**: Fox-human hybrid with white fur and straight fluffy ears. Cheerful and mischievous. Possess knowledge of "キズアミ" blessings and curses. Wearing cloaks on their tail reduces speed.
+- **ネフ (Nefu)**: Sister race of Mifu, characterized by red fur and multiple fluffy tails. Reside far from settlements, known for their striking beauty and "魔法剣" (spellsword) combat style using "長剣".
+- **サキュバス (Succubus)**: Known as "月夜の眷属" or Lunar. Adore pleasurable experiences night and day. Possess high charisma, and can infiltrate beds of sleeping targets to cast "夢蟲" (dream parasite) to grow. Immune to disease and madness through pleasure.
+- **吸血鬼 (Vampire)**: Rulers of the night with exceptional physical prowess. Strong in cold and magic, but vulnerable to "太陽光" (sunlight) and fire. Must sustain themselves on "血の糧" (living blood) as normal food gives no nutrition.
+- **半神 (Demigod)**: Offspring of a god incarnate and human. Rare to realize their origin. Possess divine beauty, balanced abilities, and strong "マナ". They receive no "神罰" (divine punishment) and gain higher favor from gods.
+- **ケンタウロス (Centaur)**: Half-human, half-beast race of archers. Gallop wilderness. Averse to sorcery but master of archery. Rare individuals awaken to "第七感" / "セブンセンシズ", making their arrows never miss, especially when mana is depleted.
+
+#### Notable NPC & Wild Races
+- **ノーランド (Norland)**: Hardy northern people. High satiety limit and immune to "冷気" (cold) item destruction.
+- **ローラン (Loran)**: Rare species with only females. High learning capacity and combat skills, having unique genetic traits.
+- **ラトキン (Ratkin)**: Rodent-like beastmen. Clever, travel-loving, and skilled at cooking, often acting as "行商人" (peddlers).
+- **人狼 (Werewolf)**: Robust lycanthropes with high satiety, immune to cold item destruction.
+- **妹猫 (Cat Sister)**: Cat-tailed girls with overwhelming speed (280) and complete evasion, but extremely fragile with low HP.
+- **人魚 (Mermaid)**: Swim at high speed in water, immune to suffocation.
+- **エイリアン (Alien)**: Possess murderous instincts, attacking non-party NPCs unless their affinity toward the player is "Love". Strong against acid and physical attacks.
+- **クイックリング (Quickling)**: Tiny creatures moving at light speed (440) but die instantly in one hit.
+- **メタル (Metal)**: Amorphous metallic beings with only 1 HP but extremely high speed (300) and near-immunity to all elements and physical attacks.
+- **シバ (Shiba)**: Adorable, sturdy dogs, generally known for friendly and submissive nature, resistant to cold.
+- **古代蟹 (Elder Crab)**: Oldest crab species evolving into various elements. Restrain enemies with massive pincers and exhale bubble breath. They are delicious.
+- **使徒 (Apostle)**: 神より遣わされし者。それぞれの主神の指示でプレイヤーの下にやってくる。他の主神の使徒とは仲悪い。
