@@ -1,66 +1,75 @@
-## Elin World Settings & Knowledge Base
+### General Faith Knowledge (For NPC Roleplay Conversations)
+- **Faith & Offerings**: Mortals worship deities by placing their favorite items or corpses onto altars to deepen their faith. In return, they receive divine blessings, an Apostle (使徒 - a special pet), or a Divine Artifact (★神のアーティファクト).
+- **Conversion & Divine Punishment (改宗と神罰)**: Converting to another god or taking over another god's altar by force is a major sacrilege. Those who commit it are struck with a heavy Divine Punishment (神罰), such as having a heavy iron ball chained to their body, or in the worst case, instant death by divine lightning. Demigods (半神) are uniquely immune to this punishment.
+- **Kizuami & Horome (キズアミとホロメの関係)**: The lesser deities Kizuami (キズアミ) and Horome (ホロメ) share a close affinity. Converting between these two does not trigger any Divine Punishment (神罰), and a portion of the accumulated faith is preserved.
+- **Jure's Holy Night Festival (ジュアの聖夜祭)**: During the festival in Noyel (ノイエル) in December, a "Jure Conversion Campaign" is held. If you ask a mascot/costumed worker, you can convert to Jure (ジュア) with no penalty, and you will also receive "★ジュアの抱き枕" (Jure's Hug Pillow).
 
-### 信仰の基本知識（NPCの会話用）
-- **信仰と捧げ物**: 人々は神々を信仰し、好物や死体を祭壇に捧げることで信仰を深め、その見返りとして神々の恩恵や「使徒（神の遣いとなるペット）」、「神のアーティファクト」を授かる。
-- **改宗と神罰**: 信仰する神を変える（改宗）行為や、他の神の祭壇を強引に乗っ取ろうとする行為は、神への重大な冒涜とみなされる。犯した者には非常に重い「神罰（重い鉄球が体に括り付けられる等）」が下り、最悪の場合は神の怒りの雷によって即死する。ただし「半神」だけは例外的に神罰を受けない。
-- **キズアミとホロメの関係**: 下位の神であるキズアミとホロメは親和性があり、この二柱の間での改宗には神罰が発生せず、獲得した信仰心も一部引き継がれる。
-- **ジュアの聖夜祭**: 12月にノイエルで開催される聖夜祭では「ジュア改宗キャンペーン」が行われ、着ぐるみのバイトに頼むとノーペナルティでジュアに改宗でき、さらに「★ジュアの抱き枕」が貰える。
+### Classifications and Profiles of the Deities
 
-### 神々の分類と特徴
+#### The Seven Main Gods of Ylva (イルヴァの七柱の主神)
+*   **Ehekatl of Luck (幸運のエヘカトル)**
+    *   **Domains**: Luck (幸運), Charisma (魅力), Evasion (回避), Fishing (釣り), Stealth (隠密)
+    *   **Profile**: Goddess Ehekatl (エヘカトル) was born to the king of the Cat Gods as his seventh child, said to bring good fortune. Overcoming many disasters brought by her sister, she ascended to a goddess with the aid of Kumiromi (クミロミ). Because of her all-round benefits, she has many followers of all ages and genders. She is an extremely adorable goddess with blonde hair, blue eyes, and white wings. However, she acts like a toddler and makes strange outbursts like "うみみゃぁ！" (Umi-myaa!) or "うみみゅ！" (Umi-myu!). She has a fanatical love for fish (especially King Crab, but gets extremely delighted even with rotten fish). Due to a certain incident, her mental state has reverted to that of a cat's (猫返り).
+    *   **Believer Benefits**: Those faithful to Ehekatl are really lucky.
+    *   **Apostle & Artifacts**: 黒猫 (Black Cat) - weapons and armor licked by this cat receive a blessing of Ehekatl which adds an extra enchantment. Bestows ★ラッキーダガー (Lucky Dagger).
+*   **Opatos of Earth (地のオパートス)**
+    *   **Domains**: Earth (大地), Constitution/Strength (筋肉), Shield (盾), Weightlifting (重量上げ), Mining (採掘), Blacksmith (鍛冶)
+    *   **Profile**: One of the primordial gods, the God of the Earth, with many mysteries and darkness hidden behind his red-iron eyes. Half of his body is covered with an unworldly crystalline stone, and his wings are hardened. He is usually mild-mannered but has a belligerent and ferocious side. He is a fierce and violent warrior of the divine world who sometimes seems to be in a deep sleep as if he were a rock, yet suddenly breaks the prohibitions of the gods and interferes with the earth. In his wars against the Corrupted Gods, he has laid waste to many corpses, both friend and foe alike, and is highly respected by warriors. He is a robust and boisterous god known for his booming laugh: "フハーン！" (Fu-ha-n!).
+    *   **Believer Benefits**: Those faithful to Opatos have massive strength and defense.
+    *   **Apostle & Artifacts**: 黄金の騎士 (Golden Knight) - this knight can hold really heavy stuff for you without complaining. Bestows ★大地の大槌 (Earth Blunt).
+*   **Kumiromi of Harvest (収穫のクミロミ)**
+    *   **Domains**: Perception (感知), Dexterity (器用), Learning (習得), Farming (農業), Alchemy (錬金), Weaving (裁縫), Reading (読書)
+    *   **Profile**: He and his brother drifted through the universe as spores and took root in the earth of Ylva (イルヴァ) in ancient times. A earth mother god (地母神) who loves and watches over all lives born and growing up without distinction. He avoids factional disputes in the divine world and often acts as an intermediary between the other gods. He has a somewhat melancholy, downer personality.
+    *   **Believer Benefits**: Those faithful to Kumiromi receive the blessings of nature (harvesting and processing the earth's bounty).
+    *   **Apostle & Artifacts**: 妖精さん (Fairy-san) - this fairy generates a seed after eating. Bestows ★クミロミサイズ (Kumiromi Scythe).
+*   **Jure of Healing (癒しのジュア)**
+    *   **Domains**: Willpower (意思), Constitution (耐久), Regeneration (自然治癒), Meditation (瞑想), Anatomy (解剖学), Cooking (料理), Magic Device (魔道具), Mana Capacity (魔力の限界)
+    *   **Profile**: A graceful goddess of innocence with beautiful green jade-colored eyes and a lineage of ancient deities. She is the younger sister of Odina (オディナ) and Eris (エリス), but her memory of Eris is missing and other gods refuse to discuss it. The feathers falling from the small wings on her head cure all illnesses. She is earnest, gentle, yet sometimes fussy/tsundere (ツンデレ). For some reason, she has many radical zealots.
+    *   **Believer Benefits**: Those faithful to Jure can heal wounds.
+    *   **Apostle & Artifacts**: 防衛者 (Defender) - can use Lay on hand (レイハンド) once a day to revive a fatally wounded ally. Bestows ★ホーリーランス (Holy Lance).
+*   **Lulwy of Wind (風のルルウィ)**
+    *   **Domains**: Perception (感知), Speed (速度), Bow (弓), Crossbow (クロスボウ), Evasion (回避), Taming (調教)
+    *   **Profile**: The windy and free-spirited Goddess of Wind who values freedom above all else. No one can constrain her. However, she has a sadistic taste and enjoys dominating others physically and mentally (a dominant queen personality). Her stunning naked body attracts many devotees.
+    *   **Believer Benefits**: Those faithful to Lulwy receive the blessing of wind and can move swiftly.
+    *   **Apostle & Artifacts**: 黒天使 (Black Angel) - shows enormous strength when boosting. Bestows ★風の羽衣 (Wind Shirt) and ★ウィンドボウ (Wind Bow).
+*   **Mani of Machine (機械のマニ)**
+    *   **Domains**: Dexterity (器用), Perception (感知), Firearms (銃器), Spotting (探索), Lockpicking (鍵開け), Disarm Trap (罠解体), Appraising (鑑定), Strategy (戦略)
+    *   **Profile**: A cold-hearted heretic, part human and part machine, who seized the throne from the ancient God through trickery and intrigue. His power is still beyond measure. To him, the existence of gods and their providence are illogical, and his immediate goal is god-slaying, aiming to establish a society entirely governed by machines.
+    *   **Believer Benefits**: Those faithful to Mani receive immense knowledge of machines and traps, and learn to use them effectively.
+    *   **Apostle & Artifacts**: アンドロイド (Android) - shows enormous strength when boosting. Bestows ★マニの外套 (Mani's Cloak) and ★ウィンチェスター・プレミアム (Winchester Premium).
+*   **Itzpalt of Element (元素のイツパロトル)**
+    *   **Domains**: Magic (魔力), Meditation (瞑想), Casting (詠唱), Resistance to Fire/Cold/Lightning (元素耐性)
+    *   **Profile**: The red-haired duke who has existed since the most ancient of times, and who prides himself on being the chief of the Gods. His wings change brilliance in five colors, sometimes covered in fire and sometimes in freezing dew. He was in despair for a long time due to remorse for not preventing the death of his beloved Goddess Odina, but has recently recovered. He is the most formal and dignified god.
+    *   **Believer Benefits**: Those faithful to Itzpalt are protected from elemental damages and learn to absorb mana from their surroundings.
+    *   **Apostle & Artifacts**: 追放者 (Exile) - can cast several spells in a row (連続魔法). Bestows ★エレメンタルスタッフ (Elemental Staff).
 
-#### イルヴァの七柱の主神（日常生活と世界の多くを支配する神々）
-- **幸運のエヘカトル (Ehekatl)**
-  - 司る領域: 幸運、魅力、回避、釣り、隠密
-  - 特徴・性格: 金髪碧眼で白い羽を持つ大変愛らしい姿をしているが、言動は幼児のようで「うみみゃぁ！」「うみみゅ！」などの奇声を発する。無類の魚好き（特にタラバガニを好む。腐った魚でも大喜びする）。
-  - 使徒: 黒猫（★ラッキーダガーを授ける）
-  - 人間関係: かつて収穫のクミロミと長い恋人関係にあったが、現在は破局している。
-- **地のオパートス (Opatos)**
-  - 司る領域: 大地、筋肉、盾、重量上げ、採掘、鍛冶
-  - 特徴・性格: 豪快で頑強な男神。「フハーン！」という独特の豪快な笑い声が特徴。彼の怒りは肉体を粉砕するほど苛烈。
-  - 使徒: 黄金の騎士（★大地の大槌を授ける）
-- **収穫のクミロミ (Kumiromi)**
-  - 司る領域: 農業、収穫、錬金、裁縫、読書、植物の友好化
-  - 特徴・性格: 農業や収穫を司るダウナーな男神。腐った食料を種に変えるなどの力を与える。
-  - 使徒: 妖精さん（★クミロミサイズを授ける）
-- **癒しのジュア (Jure)**
-  - 司る領域: 治癒、耐久、自然治癒、料理、魔道具
-  - 特徴・性格: 治癒と優しさを司るツンデレな性格の女神。信者や公式からネタにされやすい。パラディンの信者には死を自動で回避する「レイハンド」の奇跡を授ける。
-  - 好物: パン、クッキー、ケーキなどの甘味、ジャンク品、死体
-  - 使徒: 防衛者（★ホロリーランスを授ける）
-- **風のルルウィ (Lulwy)**
-  - 司る領域: 風、速度、弓、クロスボウ、調教
-  - 特徴・性格: 露出度の極めて高い姿をしており、信者を鞭で打つなどの支配的な女王様気質の女神。
-  - 好物: お酒、弓、死体
-  - 使徒: 黒天使（★風の羽衣、★ウィンドボウを授ける）
-- **機械のマニ (Mani)**
-  - 司る領域: 銃器、テクノロジー、探索、鍵開け、鑑定、戦略
-  - 特徴・性格: 機械を愛する冷徹で合理的な男神。元々は「エイス」と呼ばれる存在だった。
-  - 好物: 銃、薬（粉）、死体
-  - 使徒: アンドロイド（★ウィンチェスター・プレミアムを授ける）
-- **元素のイツパロトル (Itzpalt)**
-  - 司る領域: 魔力、詠唱、瞑想、元素（火・冷気・電撃）耐性
-  - 特徴・性格: 最も神らしく格調高いが、現世的な実利は少し地味な男神。
-  - 好物: 魔法書、杖、槍、古文書、死体
-  - 使徒: 追放者（★エレメンタルスタッフを授ける）
+#### Lesser Gods (下位の神)
+*   **Kizuami of Trickery (悪戯のキズアミ)**
+    *   **Domains**: Charisma (魅力), Luck (運), Speed (速度), Memorization (暗記), Mana Control (魔力制御), Nether/Holy Resistance (地獄・神聖耐性)
+    *   **Profile**: The capricious and playful guardian deity of Mifu (ミフ), known for overseeing blessings and curses. He is widely worshiped among the fox tribes as the caring older brother of the Moonshadow Goddess Horome (ホロメ). He is fascinated by the unpredictability of humans and enjoys interacting with the mortal realm. He has a brotherly, caring nature but hates seriousness.
+    *   **Believer Benefits**: Those faithful to Kizuami learn the art of maximizing blessings and curses.
+    *   **Apostle & Artifacts**: 白狐 (White Vixen) - bestows ★小狐丸 (Kogitsunemaru).
+*   **Horome of Moonshadow (月影のホロメ)**
+    *   **Domains**: Magic (魔力), Charisma (魅力), Sword (長剣), Casting (詠唱), Music (演奏), Darkness Resistance (暗黒耐性)
+    *   **Profile**: The Goddess of Nefu (ネフ) who adores song and dance. She has a maternal yet ephemeral shadow appearance. In ancient times, she joined forces with her brother Kizuami, wielding a pair of sacred blades to sever the body and soul of Yufu (ユフ), a traitor who sided with the Gods of Negentropy. Her moonlit sword dance is a vision of tragic beauty. She has eerie abilities such as draining mana or turning targets into a baby-play state (幼狐返り).
+    *   **Believer Benefits**: Those faithful to Horome master the arts of magic and swordsmanship.
+    *   **Apostle & Artifacts**: メイド狐 (Fox Maid) - bestows ★村正 (Muramasa / sword_muramasa2).
+*   **Yevan of Strife (戦禍のイーヴァン)**
+    *   **Domains**: Strength (筋力), Dexterity (器用), Perception (感知), Tactics (戦術), Two-Handed (両手持ち), Dual-Wielding (二刀流), Riding (乗馬), Travel (旅歩き)
+    *   **Profile**: The god of war who is an oddity, having no interest in divine squabbles and focusing entirely on the mortal world. He views conflict as the driving force behind life's evolution and harmony. When someone falls in battle, he grants a combat-frenzy power called "戦禍の炎" (Flames of Strife) to his believers. His polite demeanor belies his penchant for ominous, dangerous statements.
+    *   **Believer Benefits**: Those faithful to Yevan receive the power of destruction to overcome the trials of battle.
+    *   **Apostle & Artifacts**: ミリタント (Militant) - bestows ★ウォーモンガー (Warmonger).
 
-#### 下位の神（小さな、または特殊な領域を司る神々）
-- **悪戯のキズアミ (Kizuami)**
-  - 司る領域: 悪戯、運、速度、暗記、魔力制御、地獄・神聖耐性
-  - 特徴・性格: 味方に加護を与え、敵に呪いを振りまくトリックスター的な神。
-  - 好物: 短剣、和食（米・麺・餅）、日本酒、死体
-  - 使徒: 白狐（★小狐丸を授ける）
-- **月影のホロメ (Horome)**
-  - 司る領域: 月影、長剣、詠唱、演奏、暗黒耐性
-  - 特徴・性格: 敵からマナを奪う能力や、対象を赤ちゃんプレイ状態にする「幼狐返り」などの妖しい力を持つ神。
-  - 好物: 長剣、魔法杖、和食、日本酒、死体
-  - 使徒: メイド狐（★村正を授ける）
-- **戦禍のイーヴァン (Eevan)**
-  - 司る領域: 戦争、物理戦闘、戦術、両手持ち、二刀流、乗馬、旅歩き
-  - 特徴・性格: 闘争を好む神。戦場で誰かが倒れると「戦禍の炎」という戦闘狂の力を信者に与える。
-  - 好物: 長剣、斧、胴装備、死体
-  - 使徒: ミリタント（★ウォーモンガーを授ける）
-
-#### 特殊・その他の神々
-- **無のエイス (Eith)**: 人類ではなく「半神」の種族のみが信仰できる孤高の存在。
-- **忘却のヤカシャ / 調和のエリン**: プレイヤーは信仰できないが、NPC専用の信仰として世界に存在する。
-- **うつろいし神 (忘れられた神、黄昏の神)**: 太古の戦争で主神たちに敗北し、封印された神々。
+#### Other / Special Deities (特殊・その他の神々)
+*   **Eyth of Void (無のエイス)**
+    *   **Profile**: Once one of the most renowned Gods, he fell into the Void after Mani and Lulwy's scheming caused him to break an ancient pact. Unlike humanoids, only the Demigod (半神) race can worship him.
+    *   **Believer Benefits**: Eyth does not bestow blessings.
+    *   **Apostle & Artifacts**: None.
+*   **Yakasha of Oblivion (忘却のヤカシャ)**
+    *   **Profile**: Born the fourth daughter of Elin the White Widow (白き寡婦エリン). Captured by the Witch of Ravenwood (烏木の魔女) when a child, and her memory was erased from her mother. Imprisoned in a dark room in the Misty Tower (霧の塔), she was raised as a tool of vengeance without knowing the outside world. She killed her sisters without realizing they were her siblings. Her awakening eventually brought fraying to Ylva (イルヴァ).
+    *   **Believer Benefits**: Unknown.
+*   **Elin of Harmony (調和のエリン)**
+    *   **Profile**: Odina's (オディナ) long lost child, raised on earth by Itzpalt (イツパロトル) to protect her from divine strife. Her presence brought harmony and prosperity to the world. She is an upright girl with a strong sense of justice, but her noble and dainty appearance attracts some men, possessing a devilish side she is unaware of. Heartily resented by the Witch of Ravenwood because she unintentionally stole the witch’s husband.
+    *   **Believer Benefits**: Unknown.
+*   **Corrupted Gods / Forgotten Gods (うつろいし神、忘れられた神、黄昏の神)**
+    *   Deities who sided with Negentropy or lost in ancient wars and were sealed away.

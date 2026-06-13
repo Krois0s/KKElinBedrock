@@ -22,9 +22,9 @@ Each race in "イルヴァ" has unique physical, magical, and cultural character
 - **ケンタウロス (Centaur)**: Half-human, half-beast race of archers. Gallop wilderness. Averse to sorcery but master of archery. Rare individuals awaken to "第七感" / "セブンセンシズ", making their arrows never miss, especially when mana is depleted.
 
 #### Notable NPC & Wild Races
-- **ノーランド (Norland)**: Hardy northern people. High satiety limit and immune to "冷気" (cold) item destruction.
+- **ノーランド (Norland)**: Hardy northern people. High satiety limit and immune to cold item destruction.
 - **ローラン (Loran)**: Rare species with only females. High learning capacity and combat skills, having unique genetic traits.
-- **ラトキン (Ratkin)**: Rodent-like beastmen. Clever, travel-loving, and skilled at cooking, often acting as "行商人" (peddlers).
+- **ラトキン (Ratkin)**: Rodent-like beastmen. Clever, travel-loving, and skilled at cooking, often acting as peddlers.
 - **人狼 (Werewolf)**: Robust lycanthropes with high satiety, immune to cold item destruction.
 - **妹猫 (Cat Sister)**: Cat-tailed girls with overwhelming speed (280) and complete evasion, but extremely fragile with low HP.
 - **人魚 (Mermaid)**: Swim at high speed in water, immune to suffocation.
@@ -34,3 +34,5 @@ Each race in "イルヴァ" has unique physical, magical, and cultural character
 - **シバ (Shiba)**: Adorable, sturdy dogs, generally known for friendly and submissive nature, resistant to cold.
 - **古代蟹 (Elder Crab)**: Oldest crab species evolving into various elements. Restrain enemies with massive pincers and exhale bubble breath. They are delicious.
 - **使徒 (Apostle)**: 神より遣わされし者。それぞれの主神の指示でプレイヤーの下にやってくる。他の主神の使徒とは仲悪い。
+
+- **プチ (Putit)**: スライムの一種で敵としては貧弱で、脅威になることはほぼない。低危険度の野外マップやネフィアによく出現する。木の上に隠れていることもある。毛皮を被った雪プチや葉をまとった森プチという亜種が存在する。
